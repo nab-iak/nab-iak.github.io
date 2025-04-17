@@ -8,7 +8,7 @@ Jiawei Wan
 ## Contact
 
 - Email: <bankaicn@gmail.com>
-- Twitter: [@nab_iak](https://x.com/wujiaoshuiduole)
+- Twitter: [@wujiaoshuiduole](https://x.com/wujiaoshuiduole)
 - Discord: @nab_iak with [Server](https://discord.gg/kXCRZH9Zrg)
 - Github: [@nab-iak](ttps://github.com/nab-iak)
 
