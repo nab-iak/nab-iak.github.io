@@ -9,10 +9,14 @@ Jiawei Wan
 
 - Email: <bankaicn@gmail.com>
 - Twitter: [@wujiaoshuiduole](https://x.com/wujiaoshuiduole)
-- Discord: @nab_iak with [Server](https://discord.gg/kXCRZH9Zrg)
+- Discord: nab_iak with the [Server](https://discord.gg/kXCRZH9Zrg)
 - Github: [@nab-iak](ttps://github.com/nab-iak)
+- Researchmap: [Jiawei Wan](https://researchmap.jp/bankaicn)
+- Research Gate: [Jiawei Wan](https://www.researchgate.net/profile/Jiawei_Wan4?ev=hdr_xprf)
+
+## By Google Form
 
 ## Sources of pictures
 >
-> - Avatar pic by [堇](https://www.pixiv.net/artworks/119820867)
-> - Banner pic by [超凶の狄璐卡](https://www.pixiv.net/artworks/121031925)
+> - Avatar pic by [@堇](https://www.pixiv.net/artworks/119820867)
+> - Banner Pic by [@若若秋](https://www.pixiv.net/artworks/127621011)
