@@ -1,4 +1,4 @@
-![work_cover](./work_cover.jpg)
+<img title="work_cover" src="work_cover.jpg">
 
 > Pic by [若若秋](https://www.pixiv.net/artworks/127621011)
 
