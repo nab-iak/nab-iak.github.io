@@ -1,3 +1,7 @@
+![about_cover](./about_cover.jpg)
+
+> Pic by [晕欧欧](https://www.pixiv.net/artworks/121353048)
+
 ## About
 
 Jiawei Wan
