@@ -16,12 +16,12 @@ export const siteConfig: SiteConfig = {
 	},
 	banner: {
 		enable: true,
-		src: "assets/images/banner.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+		src: "assets/images/banner.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: true, // Display the credit text of the banner image
-			text: "Cover Pic by @超凶の狄璐卡", // Credit text to be displayed
-			url: "https://www.pixiv.net/artworks/121031925", // (Optional) URL link to the original artwork or artist's page
+			text: "Cover Pic by @BLACKmeow", // Credit text to be displayed
+			url: "www.pixiv.net/artworks/120779486", // (Optional) URL link to the original artwork or artist's page
 		},
 	},
 	toc: {

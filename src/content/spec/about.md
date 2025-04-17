@@ -10,11 +10,9 @@ Jiawei Wan
 - Email: <bankaicn@gmail.com>
 - Twitter: [@wujiaoshuiduole](https://x.com/wujiaoshuiduole)
 - Discord: nab_iak with the [Server](https://discord.gg/kXCRZH9Zrg)
-- Github: [@nab-iak](ttps://github.com/nab-iak)
+- Github: [@nab-iak](https://github.com/nab-iak)
 - Researchmap: [Jiawei Wan](https://researchmap.jp/bankaicn)
 - Research Gate: [Jiawei Wan](https://www.researchgate.net/profile/Jiawei_Wan4?ev=hdr_xprf)
-
-## By Google Form
 
 ## Sources of pictures
 >
