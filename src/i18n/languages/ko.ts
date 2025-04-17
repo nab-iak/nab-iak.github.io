@@ -5,6 +5,7 @@ export const ko: Translation = {
 	[Key.home]: "홈",
 	[Key.about]: "소개",
 	[Key.work]: "작업",
+	[Key.activity]: "Activity",
 	[Key.archive]: "아카이브",
 	[Key.search]: "검색",
 

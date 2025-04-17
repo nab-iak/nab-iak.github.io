@@ -5,6 +5,7 @@ export const en: Translation = {
 	[Key.home]: "Home",
 	[Key.about]: "About",
 	[Key.work]: "Work",
+	[Key.activity]: "Activity",
 	[Key.archive]: "Archive",
 	[Key.search]: "Search",
 

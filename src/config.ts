@@ -21,7 +21,7 @@ export const siteConfig: SiteConfig = {
 		credit: {
 			enable: true, // Display the credit text of the banner image
 			text: "Cover Pic by @BLACKmeow", // Credit text to be displayed
-			url: 'http://www.pixiv.net/artworks/120779486', // (Optional) URL link to the original artwork or artist's page
+			url: "http://www.pixiv.net/artworks/120779486", // (Optional) URL link to the original artwork or artist's page
 		},
 	},
 	toc: {
@@ -44,6 +44,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Archive,
 		LinkPreset.About,
 		LinkPreset.Work,
+		LinkPreset.Activity,
 	],
 };
 

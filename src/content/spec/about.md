@@ -5,6 +5,13 @@ Jiawei Wan
 - PhD in Sports Medicine at University of Tsukuba, Japan.
 - Now is working at Lab of Sports Medicine, University of Tsukuba, Japan.
 
+## Research Field
+
+- Epidemiology
+- Preventive Medicine
+- Public Health
+- Bioinformatics
+
 ## Contact
 
 - Email: <bankaicn@gmail.com>
@@ -16,5 +23,5 @@ Jiawei Wan
 
 ## Sources of pictures
 >
-> - Avatar pic by [@堇](https://www.pixiv.net/artworks/119820867)
+> - Avatar Pic by [@堇](https://www.pixiv.net/artworks/119820867)
 > - Banner Pic by [@若若秋](https://www.pixiv.net/artworks/127621011)
