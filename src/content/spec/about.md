@@ -2,8 +2,8 @@
 
 Jiawei Wan
 
-PhD in Sports Medicine at University of Tsukuba, Japan.
-Now is working at Lab of Sports Medicine, University of Tsukuba, Japan.
+- PhD in Sports Medicine at University of Tsukuba, Japan.
+- Now is working at Lab of Sports Medicine, University of Tsukuba, Japan.
 
 ## Contact
 
