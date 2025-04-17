@@ -1,4 +1,4 @@
-<img title="work_cover" src="work_cover.jpg">
+<img title="work_cover" src="https://github.com/nab-iak/nab-iak.github.io/blob/main/src/content/spec/work_cover.jpg">
 
 > Pic by [若若秋](https://www.pixiv.net/artworks/127621011)
 

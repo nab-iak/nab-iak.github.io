@@ -1,4 +1,4 @@
-<img title="about_cover" src="about_cover.jpg">
+<img title="about_cover" src="https://github.com/nab-iak/nab-iak.github.io/blob/main/src/content/spec/about_cover.jpg">
 
 > Pic by [晕欧欧](https://www.pixiv.net/artworks/121353048)
 
