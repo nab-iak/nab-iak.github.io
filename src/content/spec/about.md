@@ -1,9 +1,18 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+## About
 
-::github{repo="saicaca/fuwari"}
+Jiawei Wan
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+PhD in Sports Medicine at University of Tsukuba, Japan.
+Now is working at Lab of Sports Medicine, University of Tsukuba, Japan.
+
+## Contact
+
+- Email: <bankaicn@gmail.com>
+- Twitter: [@nab_iak](https://x.com/wujiaoshuiduole)
+- Discord: @nab_iak with [Server](https://discord.gg/kXCRZH9Zrg)
+- Github: [@nab-iak](ttps://github.com/nab-iak)
+
+## Sources of pictures
+>
+> - Avatar pic by [堇](https://www.pixiv.net/artworks/119820867)
+> - Banner pic by [超凶の狄璐卡](https://www.pixiv.net/artworks/121031925)
