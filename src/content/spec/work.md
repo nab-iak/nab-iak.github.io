@@ -1,4 +1,6 @@
 ![cover](./work_cover.jpg)
+>
+> - Cover Pic by [@超凶の狄璐卡](https://www.pixiv.net/artworks/121031925)
 
 ## Works
 

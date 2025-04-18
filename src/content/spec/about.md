@@ -1,3 +1,7 @@
+![about_cover](./about_cover.jpg)
+>
+> - Cover Pic by [@若若秋](https://www.pixiv.net/artworks/127621011)
+
 ## About
 
 Jiawei Wan
