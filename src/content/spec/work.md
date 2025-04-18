@@ -1,3 +1,5 @@
+![cover](./work_cover.jpg)
+
 ## Works
 
 ### 2025
