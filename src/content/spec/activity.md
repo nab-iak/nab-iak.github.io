@@ -1,4 +1,5 @@
 ![activity_cover](./activity_cover.jpg)
+
 > - Cover Pic by [@ﾍﾅﾁｮｺ](https://www.pixiv.net/artworks/120879904)
 
 ## Research Activity
