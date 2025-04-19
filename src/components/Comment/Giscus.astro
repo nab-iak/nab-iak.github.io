@@ -1,0 +1,31 @@
+---
+const giscus = {
+	repo: "nab-iak/nab-iak.github.io",
+	repoId: "R_kgDOOalhfQ",
+	category: "Q&A",
+	categoryId: "DIC_kwDOOalhfc4CpQm6",
+	mapping: "pathname",
+	strict: "0",
+	reactionsEnabled: "1",
+	emitMetadata: "0",
+	inputPosition: "top",
+	theme: "preferred_color_scheme",
+	lang: "en",
+};
+---
+
+<div id="giscus_container">
+    <script src="https://giscus.app/client.js"
+      data-repo={giscus.repo}
+      data-repo-id={giscus.repoId}
+      data-category={giscus.category}
+      data-category-id={giscus.categoryId}
+      data-mapping={giscus.mapping}
+      data-reactions-enabled={giscus.reactionsEnabled ? "1" : "0"}
+      data-input-position={giscus.inputPosition}
+      data-theme={giscus.theme}
+      data-lang={giscus.lang}
+      crossorigin="anonymous"
+      async>
+    </script>
+  </div>
