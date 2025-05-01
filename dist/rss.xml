@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Nab-iak&apos;s Blog</title><description>春水阁泡澡</description><link>https://fuwari.vercel.app/</link><language>en</language><item><title>[PIN] RNA-seq Analysis Service from University of Tsukuba</title><link>https://fuwari.vercel.app/posts/p2/p2/</link><guid isPermaLink="true">https://fuwari.vercel.app/posts/p2/p2/</guid><description>The CHEAPEST RNA-seq service for you &lt;3</description><pubDate>Mon, 18 Apr 3025 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Nab-iak&apos;s Blog</title><description>春水阁泡澡</description><link>https://nab-iak.github.io/</link><language>en</language><item><title>[PIN] RNA-seq Analysis Service from University of Tsukuba</title><link>https://nab-iak.github.io/posts/p2/p2/</link><guid isPermaLink="true">https://nab-iak.github.io/posts/p2/p2/</guid><description>The CHEAPEST RNA-seq service for you &lt;3</description><pubDate>Mon, 18 Apr 3025 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;Cover Pic by &lt;a href=&quot;https://www.pixiv.net/artworks/120767239&quot;&gt;@Rafa&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -125,7 +125,7 @@ and others (continually updated).&lt;/li&gt;
 Expression quantification, hierarchical clustering, heatmaps, pathways, Gene Ontology (GO),
 scatter plots, volcano plots, and mutation identification.&lt;/li&gt;
 &lt;/ul&gt;
-</content:encoded></item><item><title>用DESeq2进行差异性分析</title><link>https://fuwari.vercel.app/posts/p4/p4/</link><guid isPermaLink="true">https://fuwari.vercel.app/posts/p4/p4/</guid><description>DESeq2的简明教程</description><pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+</content:encoded></item><item><title>用DESeq2进行差异性分析</title><link>https://nab-iak.github.io/posts/p4/p4/</link><guid isPermaLink="true">https://nab-iak.github.io/posts/p4/p4/</guid><description>DESeq2的简明教程</description><pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;Cover Pic by &lt;a href=&quot;https://www.pixiv.net/artworks/129087864&quot;&gt;@saturn_illus&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -309,6 +309,7 @@ dds &amp;lt;- DESeqDataSetFromMatrix(countData = countsMatrix,
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2&gt;基因注释&lt;/h2&gt;
 &lt;p&gt;本节参考：&lt;a href=&quot;https://zenn.dev/rchiji/articles/99bf231c92aad9#%E3%80%90-biomart%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8-%E3%80%91&quot;&gt;【R】 遺伝子ID/遺伝子名の変換方法&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;biomaRt&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;需要用到R包&lt;code&gt;biomaRt&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -343,56 +344,60 @@ library(biomaRt)
 &lt;pre&gt;&lt;code&gt;Mm &amp;lt;- useDataset(&quot;mmusculus_gene_ensembl&quot;, mart = db)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;ul&gt;
-&lt;li&gt;查看&lt;code&gt;mmusculus_gene_ensembl&lt;/code&gt;包含的所有小鼠信息&lt;/li&gt;
+&lt;li&gt;查看&lt;code&gt;mmusculus_gene_ensembl&lt;/code&gt;包含的所有小鼠基因信息&lt;/li&gt;
 &lt;/ul&gt;
-&lt;pre&gt;&lt;code&gt;listFilters(Mm)
+&lt;pre&gt;&lt;code&gt;listAttributes(Mm)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;ul&gt;
 &lt;li&gt;创建一个所有基因名字的列表&lt;/li&gt;
 &lt;/ul&gt;
 &lt;pre&gt;&lt;code&gt;# 提取需要的注释信息
-genes_annotation &amp;lt;- getBM(
-    attributes = c(
-     &quot;ensembl_gene_id&quot;,
-     &quot;hgnc_symbol&quot;, # 这个可以不要
-     &quot;external_gene_name&quot;,
-     &quot;wikigene_name&quot;), # 这个可以不要
+gene_annotation &amp;lt;- getBM(
+# 这里的attributes就是listAttributes(Mm)中选的
+    attributes = c(&quot;ensembl_gene_id&quot;,
+          &quot;external_gene_name&quot;,
+          &quot;description&quot;), 
  mart = Mm
     )
-
-# 创建一个name的列：
+gene_annotation &amp;lt;- gene_annotation %&amp;gt;%
+# 创建一个GENE的列：
 # 如果有external_gene_name就用external_gene_name
 # 如果没有就保留ensembl_gene_id
-genes_annotation &amp;lt;- all_genes %&amp;gt;%
-    select(ensembl_gene_id, external_gene_name) %&amp;gt;%
-# 这里叫name_orig是为了等下的重复基因名处理所以预留name
-    mutate(name_orig = ifelse( 
-     external_gene_name == &quot;&quot;, 
-     ensembl_gene_id, 
-     external_gene_name)) %&amp;gt;%
-    select(-external_gene_name)
-
-# 重新命名一下，比较方便
-colnames(gene_annotation) &amp;lt;- c(&quot;gene&quot;,&quot;name_orig&quot;)
-
+    mutate(GENE = ifelse(external_gene_name == &quot;&quot;,
+          ensembl_gene_id, 
+          external_gene_name)) %&amp;gt;%
+    group_by(GENE) %&amp;gt;%
 # 由于存在相同基因名称的基因，并且变成rownames的时候是不可以有重复的
 # 给重复的基因名后面加个小尾巴 .1 .2 这种
-gene_annotation &amp;lt;- gene_annotation %&amp;gt;%
-  group_by(name_orig) %&amp;gt;%
-  mutate(
-    count = n(),
-    name = if_else(count == 1, 
-       name_orig, 
-       paste0(name_orig, &quot;.&quot;, row_number()))
- ) %&amp;gt;%
-  ungroup() %&amp;gt;%
-  select(-name_orig, -count)
+    mutate(
+        count = n(),
+        GENE = if_else(count == 1, GENE, paste0(GENE, &quot;.&quot;, row_number()))
+    ) %&amp;gt;%
+    ungroup() %&amp;gt;%
+    select(-count)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;ul&gt;
 &lt;li&gt;添加基因名称的时候只用&lt;code&gt;left_join()&lt;/code&gt;就行了&lt;/li&gt;
 &lt;/ul&gt;
 &lt;pre&gt;&lt;code&gt;resultDataFrame %&amp;gt;% 
  left_join(genes_annotation, by = &quot;gene&quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;Genome wide annotation包&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;这个比较简单，很容易上手&lt;/li&gt;
+&lt;li&gt;这个包是一个系列，都是org.XX.eg.db这种类型的&lt;/li&gt;
+&lt;li&gt;但是没有预测基因，会出现很多NA的基因名&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;gene_annotation &amp;lt;- ensembldb::select(x = org.Mm.eg.db, # 注释基因包
+   # 这里keys(org.Mm.eg.db,&quot;ENSEMBL&quot;)提取了包里的全部基因的ENSEMBL
+            keys = keys(org.Mm.eg.db,&quot;ENSEMBL&quot;), # 需要注释的基因
+            keytype = &quot;ENSEMBL&quot;, # 匹配ENSEMBL
+            # 抽取匹配到基因的&quot;SYMBOL&quot;,&quot;ALIAS&quot;,&quot;GENENAME&quot;,&quot;GENETYPE&quot;
+            columns = c(&quot;SYMBOL&quot;,&quot;ALIAS&quot;,&quot;GENENAME&quot;,&quot;GENETYPE&quot;))
+
+resultDataFrame %&amp;gt;% 
+ left_join(genes_annotation, 
+     by = c(&quot;ENSEMBL&quot;,&quot;SYMBOL&quot;,&quot;ALIAS&quot;,&quot;GENENAME&quot;,&quot;GENETYPE&quot;))
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2&gt;差异性表达分析&lt;/h2&gt;
 &lt;ul&gt;
@@ -552,9 +557,9 @@ metadata(resIHW)$ihwResult
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;方法:&lt;/th&gt;
-&lt;th&gt;&lt;code&gt;apeglm&lt;/code&gt;1&lt;/th&gt;
-&lt;th&gt;&lt;code&gt;ashr&lt;/code&gt;2&lt;/th&gt;
-&lt;th&gt;&lt;code&gt;normal&lt;/code&gt;3&lt;/th&gt;
+&lt;th&gt;&lt;code&gt;apeglm&lt;/code&gt;&lt;/th&gt;
+&lt;th&gt;&lt;code&gt;ashr&lt;/code&gt;&lt;/th&gt;
+&lt;th&gt;&lt;code&gt;normal&lt;/code&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -764,7 +769,7 @@ ggplot(aes(log2FoldChange, -log10(padj), color = diffexpressed))+
   geom_text_repel(data = filter(res_lfcShrink_volc, padj &amp;lt; 0.05 &amp;amp; abs(log2FoldChange) &amp;gt; 1),
                   max.overlaps = getOption(&quot;ggrepel.max.overlaps&quot;, default = 20),
                   # 这里的filter很关键，筛选你想要标记的基因
-                  aes(label = name),
+                  aes(label = GENE), # 这里的GENE就是注释部分生成的基因名称
                   size = 3,
                   color = &apos;black&apos;) +
   xlab(&quot;Log2FC&quot;)+
@@ -804,7 +809,7 @@ counts_dds &amp;lt;- t(scale(t(counts_dds))) # 需要对每行进行归一化，
 &lt;/ul&gt;
 &lt;pre&gt;&lt;code&gt;Heatmap(counts_dds[SigGenes,])
 &lt;/code&gt;&lt;/pre&gt;
-</content:encoded></item><item><title>DESeq2中多因子设计</title><link>https://fuwari.vercel.app/posts/p3/p3/</link><guid isPermaLink="true">https://fuwari.vercel.app/posts/p3/p3/</guid><description>复杂实验设计时DESeq2中的实验设计写法及含义</description><pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+</content:encoded></item><item><title>DESeq2中多因子设计</title><link>https://nab-iak.github.io/posts/p3/p3/</link><guid isPermaLink="true">https://nab-iak.github.io/posts/p3/p3/</guid><description>复杂实验设计时DESeq2中的实验设计写法及含义</description><pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;Cover Pic by &lt;a href=&quot;https://www.pixiv.net/artworks/129206493&quot;&gt;@Rvoid_0&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -1023,7 +1028,7 @@ Wald检验用于双样本，而LRT用于多样本
 &lt;/ul&gt;
 &lt;h2&gt;原视频&lt;/h2&gt;
 &lt;p&gt;&amp;lt;iframe width=&quot;100%&quot; height=&quot;468&quot; src=&quot;https://www.youtube.com/embed/X6p3E-QTcUc&quot; title=&quot;Multifactor Designs in DESeq2&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
-</content:encoded></item><item><title>Blog创建完成</title><link>https://fuwari.vercel.app/posts/p1/p1/</link><guid isPermaLink="true">https://fuwari.vercel.app/posts/p1/p1/</guid><description>随便写点什么吧</description><pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+</content:encoded></item><item><title>Blog创建完成</title><link>https://nab-iak.github.io/posts/p1/p1/</link><guid isPermaLink="true">https://nab-iak.github.io/posts/p1/p1/</guid><description>随便写点什么吧</description><pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;Cover Pic by &lt;a href=&quot;https://www.pixiv.net/artworks/121353048&quot;&gt;@晕欧欧&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;开启我的blog&lt;/h2&gt;
