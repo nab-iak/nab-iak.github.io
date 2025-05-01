@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Nab-iak&apos;s Blog</title><description>春水阁泡澡</description><link>https://fuwari.vercel.app/</link><language>en</language><item><title>[PIN] RNA-seq Analysis Service from University of Tsukuba</title><link>https://fuwari.vercel.app/posts/p2/p2/</link><guid isPermaLink="true">https://fuwari.vercel.app/posts/p2/p2/</guid><description>The CHEAPEST RNA-seq service for you &lt;3</description><pubDate>Mon, 18 Apr 3025 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Cover Pic by &lt;a href=&quot;https://www.pixiv.net/artworks/120767239&quot;&gt;@Rafa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;This RNA-seq analysis services as a part of the Open Facility Program, University of Tsukuba.&lt;/li&gt;
+&lt;li&gt;If you wish to proceed with the request below, please contact to us. The person in charge will respond with the shipping address and other instructions.&lt;/li&gt;
+&lt;li&gt;Note: Samples will not be returned. Thank you for your understanding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;lt;/br&amp;gt;
+&amp;lt;center&amp;gt;&amp;lt;h4&amp;gt;Shipping Address&amp;lt;/h4&amp;gt;&amp;lt;/center&amp;gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sport Medicine Laboratory
+Room 060, Medical Sciences Building,
+University of Tsukubaa
+1-1-1 Tennodai, Tsukuba, Ibaraki 305-8577, Japan&lt;/li&gt;
+&lt;li&gt;Email: rnaseq.sugasawalab.tsukuba ※ gmail.com&lt;br /&gt;
+(please replace ※ with @)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&amp;lt;center&amp;gt;Plan 1: from Extraction and Purification to Data Analysis&amp;lt;/center&amp;gt;&lt;/h2&gt;
+&lt;p&gt;&amp;lt;center&amp;gt;&amp;lt;h4&amp;gt;- 44,300 yen/sample -&amp;lt;/h4&amp;gt;&amp;lt;/center&amp;gt;
+&amp;lt;center&amp;gt;&amp;lt;h4&amp;gt;- or 311.13 dollar/sample (2025.4.17) -&amp;lt;/h4&amp;gt;&amp;lt;/center&amp;gt;&lt;/p&gt;
+&lt;h3&gt;Sample&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Please submit either tissue or a homogenized solution (e.g., processed with TRIZOL, QIAZOL, or ISOGEN)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&amp;lt;center&amp;gt;Plan 2: from Purified RNA to Data Analysis&amp;lt;/center&amp;gt;&lt;/h2&gt;
+&lt;p&gt;&amp;lt;center&amp;gt;&amp;lt;h4&amp;gt;- 37,150 yen/sample -&amp;lt;/h4&amp;gt;&amp;lt;/center&amp;gt;
+&amp;lt;center&amp;gt;&amp;lt;h4&amp;gt;- or 260.91 dollar/sample (2025.4.17) -&amp;lt;/h4&amp;gt;&amp;lt;/center&amp;gt;&lt;/p&gt;
+&lt;h3&gt;Sample&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The submitted total RNA solution must meet the following criteria:
+&lt;ul&gt;
+&lt;li&gt;A260/230 ratio ≥ 1.6&lt;/li&gt;
+&lt;li&gt;A260/280 ratio ≥ 1.8&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;A total of 1.5–3 μg of RNA at a concentration of 50–100 ng/μL is required for each sample.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Note&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Please submit at least 3–4 μg of total RNA if possible.
+If the amount is less than 3 μg, library preparation may not be feasible.&lt;/li&gt;
+&lt;li&gt;If your sample does not meet the above requirements, please contact us.
+We may be able to accommodate samples with low concentration or poor quality.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&amp;lt;center&amp;gt;Plan 3: from Quality-checked RNA to Data Analysis&amp;lt;/center&amp;gt;&lt;/h2&gt;
+&lt;p&gt;&amp;lt;center&amp;gt;&amp;lt;h4&amp;gt;- 25,020 yen/sample -&amp;lt;/h4&amp;gt;&amp;lt;/center&amp;gt;
+&amp;lt;center&amp;gt;&amp;lt;h4&amp;gt;- or 175.72 dollar/sample (2025.4.17) -&amp;lt;/h4&amp;gt;&amp;lt;/center&amp;gt;&lt;/p&gt;
+&lt;h3&gt;Sample&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The submitted total RNA solution after purification must meet the following criteria:
+&lt;ul&gt;
+&lt;li&gt;A260/230 ratio ≥ 1.6&lt;/li&gt;
+&lt;li&gt;A260/280 ratio ≥ 1.8&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Confirm that RNA degradation is absent or minimal in all samples using either standard gel electrophoresis
+(agarose gel for DNA in TAE buffer) or a Bioanalyzer.
+&lt;ul&gt;
+&lt;li&gt;For gel electrophoresis, a 28S/18S ratio of 1.6–1.8 with no smearing is ideal.&lt;/li&gt;
+&lt;li&gt;For Bioanalyzer, RIN ≥ 7 is recommended.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Adjust RNA concentration to 100 ng/μL and ensure a total yield of 3-4 ng/μL of RNA remains.&lt;/li&gt;
+&lt;li&gt;A total yield of at least 30 μL is required for each sample.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Note&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Even if the total yield of RNA is lower than specified, request is still possible,
+but please note that it increases the risk of library preparation failure.
+Feel free to contact us for support, including guidance for gel electrophoresis.&lt;/li&gt;
+&lt;li&gt;If you require frequent support for data analysis, we may propose proceeding as a collaborative research project with the Department of Sports Medicine Analytics. Final decisions will be made based on your preferences.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&amp;lt;center&amp;gt;Plan 4: from Quality-checked RNA to FASTQ Delivery&amp;lt;/center&amp;gt;&lt;/h2&gt;
+&lt;p&gt;&amp;lt;center&amp;gt;&amp;lt;h4&amp;gt;- 20,940 yen/sample -&amp;lt;/h4&amp;gt;&amp;lt;/center&amp;gt;
+&amp;lt;center&amp;gt;&amp;lt;h4&amp;gt;- or 147.07 dollar/sample (2025.4.17) -&amp;lt;/h4&amp;gt;&amp;lt;/center&amp;gt;&lt;/p&gt;
+&lt;h3&gt;Sample&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The submitted total RNA solution after purification must meet the following criteria:
+&lt;ul&gt;
+&lt;li&gt;A260/230 ratio ≥ 1.6&lt;/li&gt;
+&lt;li&gt;A260/280 ratio ≥ 1.8&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Confirm that RNA degradation is absent or minimal in all samples using either standard gel electrophoresis
+(agarose gel for DNA in TAE buffer) or a Bioanalyzer.
+&lt;ul&gt;
+&lt;li&gt;For gel electrophoresis, a 28S/18S ratio of 1.6–1.8 with no smearing is ideal.&lt;/li&gt;
+&lt;li&gt;For Bioanalyzer, RIN ≥ 7 is recommended.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Adjust RNA concentration to 100 ng/μL and ensure a total yield of 3-4 ng/μL of RNA remains.&lt;/li&gt;
+&lt;li&gt;A total yield of at least 30 μL is required for each sample.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Note&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Even if the total yield of RNA is lower than specified, request is still possible,
+but please note that it increases the risk of library preparation failure.
+Feel free to contact us for support, including guidance for gel electrophoresis.&lt;/li&gt;
+&lt;li&gt;If you require frequent support for data analysis, we may propose proceeding as a collaborative research project with the Department of Sports Medicine Analytics. Final decisions will be made based on your preferences.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2&gt;&amp;lt;center&amp;gt;Bioinformatics Analysis Support&amp;lt;/center&amp;gt;&lt;/h2&gt;
+&lt;p&gt;&amp;lt;center&amp;gt;&amp;lt;h4&amp;gt;- 4,010 yen/sample -&amp;lt;/h4&amp;gt;&amp;lt;/center&amp;gt;
+&amp;lt;center&amp;gt;&amp;lt;h4&amp;gt;- or 28.16 dollar/sample (2025.4.17) -&amp;lt;/h4&amp;gt;&amp;lt;/center&amp;gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Our department provides bioinformatics analysis support using data obtained from next-generation sequencing. Based on a hearing with the requester, we conduct tailored analyses and prepare figures and tables accordingly.&lt;/li&gt;
+&lt;li&gt;Please note that we may be unable to perform analyses that exceed the technical capacity of our department. For users of our RNA-seq service, please use this request form if you wish to request re-analysis more than one month after data delivery.&lt;/li&gt;
+&lt;li&gt;Supported analyses:
+RNA-seq, ChIP-seq, and genomic DNA-seq (regularly updated).&lt;/li&gt;
+&lt;li&gt;Accepted data formats:
+FASTQ, expression quantification data (TPM, RPKM, read count data, etc.).&lt;/li&gt;
+&lt;li&gt;Supported species:
+Mammals such as human, mouse, and rat, as well as bacteria.&lt;/li&gt;
+&lt;li&gt;Tools/software used:
+CLC Genomics Workbench, R, Python, GeneMANIA, Metascape, DAVID, GSEA,
+and others (continually updated).&lt;/li&gt;
+&lt;li&gt;Available visualizations:
+Expression quantification, hierarchical clustering, heatmaps, pathways, Gene Ontology (GO),
+scatter plots, volcano plots, and mutation identification.&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded></item><item><title>用DESeq2进行差异性分析</title><link>https://fuwari.vercel.app/posts/p4/p4/</link><guid isPermaLink="true">https://fuwari.vercel.app/posts/p4/p4/</guid><description>DESeq2的简明教程</description><pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Cover Pic by &lt;a href=&quot;https://www.pixiv.net/artworks/129087864&quot;&gt;@saturn_illus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;教程&lt;/h2&gt;
+&lt;h3&gt;官方教程&lt;/h3&gt;
+&lt;h4&gt;Analyzing RNA-seq data with DESeq2&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;介绍了一般的分析方法&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;https://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html#interactions
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4&gt;RNA-seq workflow: gene-level exploratory analysis and differential expression&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;介绍了更加丰富的用法，用于第一个教程的补充&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;# install the package
+if (!requireNamespace(&quot;BiocManager&quot;, quietly = TRUE))
+    install.packages(&quot;BiocManager&quot;)
+BiocManager::install(&quot;rnaseqGene&quot;)
+
+# view the vignettes
+browseVignettes(&quot;rnaseqGene&quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;其他参考&lt;/h3&gt;
+&lt;h4&gt;108-如何利用DESeq2分析转录组数据？&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;https://www.jieandze1314.com/post/cnposts/108/
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4&gt;RNA-seq分析（微信公众号文章）&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMzQwNjYyNg==&amp;amp;action=getalbum&amp;amp;album_id=2673613335581474816#wechat_redirect
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4&gt;Jwindler/Ice_story（Github仓库）&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;https://github.com/Jwindler/Ice_story?tab=readme-ov-file
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4&gt;使用DESeq2分析RNA-seq数据&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;http://xuchunhui.top/2020/03/28/%E4%BD%BF%E7%94%A8DEseq2%E5%88%86%E6%9E%90RNA-seq%E6%95%B0%E6%8D%AE/
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;并行运算&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;初始设置&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;library(&quot;BiocParallel&quot;) # 载入R包
+register(MulticoreParam(4)) # 设置并行内核为4
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;后续的分析中，如果有&lt;code&gt;parallel&lt;/code&gt;参数都可以设置&lt;code&gt;TRUE&lt;/code&gt;来使用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;DESeq(..., parallel = TRUE)
+lfcShrink(..., parallel = TRUE)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;数据导入&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;DESeq2必须输入计数矩阵（counts matrix）&lt;/li&gt;
+&lt;li&gt;对于计数矩阵，一般用&lt;code&gt;DESeqDataSetFromMatrix()&lt;/code&gt;即可&lt;/li&gt;
+&lt;li&gt;用下列函数能创造一个&lt;code&gt;DEseqDataSet&lt;/code&gt;对象（一般略称为&lt;strong&gt;dds&lt;/strong&gt;），需要声明：&lt;/li&gt;
+&lt;li&gt;colData：包含样本信息的meta data&lt;/li&gt;
+&lt;li&gt;desgin：实验设计，用formula类型表示&lt;code&gt;~ Condition&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;dds &amp;lt;- DESeqDataSetFromMatrix(
+         countData = countsMatrix,
+         colData = metaData,
+         design = ~ Condition
+         )
+&lt;/code&gt;&lt;/pre&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;function&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;package&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;framework&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;output&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;DESeq2 input function&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;tximport&lt;/td&gt;
+&lt;td&gt;tximport&lt;/td&gt;
+&lt;td&gt;R/Bioconductor&lt;/td&gt;
+&lt;td&gt;list of matrices&lt;/td&gt;
+&lt;td&gt;DESeqDataSetFromTximport&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;tximeta&lt;/td&gt;
+&lt;td&gt;tximeta&lt;/td&gt;
+&lt;td&gt;R/Bioconductor&lt;/td&gt;
+&lt;td&gt;SummarizedExperiment&lt;/td&gt;
+&lt;td&gt;DESeqDataSet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;htseq-count&lt;/td&gt;
+&lt;td&gt;HTSeq&lt;/td&gt;
+&lt;td&gt;Python&lt;/td&gt;
+&lt;td&gt;files&lt;/td&gt;
+&lt;td&gt;DESeqDataSetFromHTSeq&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;featureCounts&lt;/td&gt;
+&lt;td&gt;Rsubread&lt;/td&gt;
+&lt;td&gt;R/Bioconductor&lt;/td&gt;
+&lt;td&gt;matrix&lt;/td&gt;
+&lt;td&gt;DESeqDataSetFromMatrix&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;summarizeOverlaps&lt;/td&gt;
+&lt;td&gt;GenomicAlignments&lt;/td&gt;
+&lt;td&gt;R/Bioconductor&lt;/td&gt;
+&lt;td&gt;SummarizedExperiment&lt;/td&gt;
+&lt;td&gt;DESeqDataSet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;查看&lt;code&gt;DEseqDataSet&lt;/code&gt;对象内容
+&lt;ul&gt;
+&lt;li&gt;计数：&lt;code&gt;assay(dds)&lt;/code&gt;，&lt;code&gt;counts(dds)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;基因信息：&lt;code&gt;rowRanges(dds)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;样本信息，即meta data：&lt;code&gt;colData(dds)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;$查看：meta data中包含的分组&lt;/li&gt;
+&lt;li&gt;@查看：
+&lt;ul&gt;
+&lt;li&gt;design&lt;/li&gt;
+&lt;li&gt;dispersionFunction&lt;/li&gt;
+&lt;li&gt;rowRanges&lt;/li&gt;
+&lt;li&gt;colData&lt;/li&gt;
+&lt;li&gt;assays&lt;/li&gt;
+&lt;li&gt;NAMES&lt;/li&gt;
+&lt;li&gt;elementMetadata&lt;/li&gt;
+&lt;li&gt;metadata&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;基因预过滤&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;为了提高运算性能，可以删除表达量约等于0的基因&lt;/li&gt;
+&lt;li&gt;如果配置不太吃力，一般可以&lt;strong&gt;不用预过滤，避免产生偏差&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;smallestGroupSize &amp;lt;- 3
+# 设定满足筛选要求的样本最小数量
+keep &amp;lt;-rowSums(dds %&amp;gt;% counts() &amp;gt;= 10) &amp;gt;= smallestGroupSize
+# dds %&amp;gt;% counts() &amp;gt;= 10：计算每个样本的每个基因表达量是否大于等于10，结果返回为布尔值
+# rowSums(.)：按基因（行）统计结果为TRUE的样本数量
+# rowSums(.) &amp;gt;= smallestGroupSize：满足筛选要求的样本最小数量（10）的基因被保留
+dds_filtered &amp;lt;- dds[keep, ]
+# 基本筛选语法
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;比较级别&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;对meta data的列进行因子化&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;levels&lt;/code&gt;的第一个级别为对照组&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;# 对dds对象进行因子化
+dds$condition &amp;lt;- factor(dds$condition, levels = c(&quot;untreated&quot;,&quot;treated&quot;))
+# 在创建dds对象前对meta data因子化
+metaData$condition &amp;lt;- factor(metaData$condition, levels = c(&quot;untreated&quot;,&quot;treated&quot;))
+dds &amp;lt;- DESeqDataSetFromMatrix(countData = countsMatrix,
+         colData = metaData,
+         design = ~ Condition)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;只指定参考级别&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;dds$condition &amp;lt;- relevel(dds$condition, ref = &quot;untreated&quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;删除子集中没有样本的级别&lt;/li&gt;
+&lt;li&gt;例如有三种Condition A，B，C&lt;br /&gt;
+只选择子集A和B进行分析，数据中不包含C，但因子级别中包含，&lt;br /&gt;
+用&lt;code&gt;droplevels()&lt;/code&gt;去除空白的因子级别&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;dds$condition &amp;lt;- droplevels(dds$condition)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;基因注释&lt;/h2&gt;
+&lt;p&gt;本节参考：&lt;a href=&quot;https://zenn.dev/rchiji/articles/99bf231c92aad9#%E3%80%90-biomart%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8-%E3%80%91&quot;&gt;【R】 遺伝子ID/遺伝子名の変換方法&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;需要用到R包&lt;code&gt;biomaRt&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;# 安装
+if (!require(&quot;BiocManager&quot;, quietly = TRUE))
+    install.packages(&quot;BiocManager&quot;)
+BiocManager::install(&quot;biomaRt&quot;)
+
+# 加载
+
+library(biomaRt)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;罗列可以选择的Marts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;listMarts()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;选择要用的Marts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;db &amp;lt;- useMart(biomart = &quot;ENSEMBL_MART_ENSEMBL&quot;) 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;以小鼠为例，在&lt;code&gt;ENSEMBL_MART_ENSEMBL&lt;/code&gt;的&lt;code&gt;description&lt;/code&gt;中查看包含小鼠&lt;code&gt;&quot;Mouse&quot;&lt;/code&gt;的行&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;listDatasets(db) %&amp;gt;% filter(grepl(&quot;Mouse&quot;,description))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;把注释信息提取出来&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;Mm &amp;lt;- useDataset(&quot;mmusculus_gene_ensembl&quot;, mart = db)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;查看&lt;code&gt;mmusculus_gene_ensembl&lt;/code&gt;包含的所有小鼠信息&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;listFilters(Mm)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;创建一个所有基因名字的列表&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;# 提取需要的注释信息
+genes_annotation &amp;lt;- getBM(
+    attributes = c(
+     &quot;ensembl_gene_id&quot;,
+     &quot;hgnc_symbol&quot;, # 这个可以不要
+     &quot;external_gene_name&quot;,
+     &quot;wikigene_name&quot;), # 这个可以不要
+ mart = Mm
+    )
+
+# 创建一个name的列：
+# 如果有external_gene_name就用external_gene_name
+# 如果没有就保留ensembl_gene_id
+genes_annotation &amp;lt;- all_genes %&amp;gt;%
+    select(ensembl_gene_id, external_gene_name) %&amp;gt;%
+# 这里叫name_orig是为了等下的重复基因名处理所以预留name
+    mutate(name_orig = ifelse( 
+     external_gene_name == &quot;&quot;, 
+     ensembl_gene_id, 
+     external_gene_name)) %&amp;gt;%
+    select(-external_gene_name)
+
+# 重新命名一下，比较方便
+colnames(gene_annotation) &amp;lt;- c(&quot;gene&quot;,&quot;name_orig&quot;)
+
+# 由于存在相同基因名称的基因，并且变成rownames的时候是不可以有重复的
+# 给重复的基因名后面加个小尾巴 .1 .2 这种
+gene_annotation &amp;lt;- gene_annotation %&amp;gt;%
+  group_by(name_orig) %&amp;gt;%
+  mutate(
+    count = n(),
+    name = if_else(count == 1, 
+       name_orig, 
+       paste0(name_orig, &quot;.&quot;, row_number()))
+ ) %&amp;gt;%
+  ungroup() %&amp;gt;%
+  select(-name_orig, -count)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;添加基因名称的时候只用&lt;code&gt;left_join()&lt;/code&gt;就行了&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;resultDataFrame %&amp;gt;% 
+ left_join(genes_annotation, by = &quot;gene&quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;差异性表达分析&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;DESeq()&lt;/code&gt;，可以执行Wald检验和LRT检验，作用对象为&lt;strong&gt;dds&lt;/strong&gt;对象&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Wald检验&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;默认的选项，约等于双样本t检验&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;# 下面两个一样
+dds &amp;lt;- DESeq(dds)
+dds &amp;lt;- DESeq(dds, test = &quot;Wald&quot;)
+
+# 可以加入并行运算
+
+dds &amp;lt;- DESeq(dds, parallel = TRUE)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;似然比检验（LRT检验）&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;比较多样本的选项，约等于ANOVA&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;reduced&lt;/code&gt;选项表示从原有的实验设计（完整模型）&lt;strong&gt;剔除&lt;/strong&gt;需要比较的项&lt;strong&gt;后&lt;/strong&gt;的模型（简化模型）&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;results()&lt;/code&gt;返回的结果中，&lt;code&gt;log2FoldChange&lt;/code&gt;和&lt;code&gt;lfcSE&lt;/code&gt;是&lt;strong&gt;没有任何实际意义&lt;/strong&gt;的内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;对于使用似然比检验的分析，p 值仅由完整模型公式和简化模型公式之间的偏差差异决定&lt;br /&gt;
+单个 log2 倍变化打印在结果表中以与其他结果表输出保持一致，但与实际测试无关&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4&gt;简单的实验设计：&lt;code&gt;~ Condition&lt;/code&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;检验&lt;code&gt;Condition&lt;/code&gt;里不同水平是否存在差异&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;# 因为检验Condition，所以从实验设计的formula中剔除Condition
+# 什么都没有的情况下填写~1
+dds &amp;lt;- DESeq(dds, test = &quot;LRT&quot;, reduced = ~1)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4&gt;复杂点的实验设计：&lt;code&gt;~ ConditionA + ConditionB&lt;/code&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;检验&lt;code&gt;ConditionB&lt;/code&gt;里不同水平是否存在差异&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;# 同理，检验ConditionB则剔除ConditionB，保留~ ConditionA
+dds &amp;lt;- DESeq(dds, test = &quot;LRT&quot;, reduced = ~ ConditionA)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4&gt;交互作用：&lt;code&gt;~ ConditionA + ConditionB + ConditionA:ConditionB&lt;/code&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;检验&lt;code&gt;ConditionB&lt;/code&gt;里不同水平是否存在差异&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;# 无论多么复杂的实验设计，检验什么就剔除什么
+# 这里检验ConditionB，所以保留~ ConditionA + ConditionA:ConditionB
+dds &amp;lt;- DESeq(dds, test = &quot;LRT&quot;,
+    reduced = ~ ConditionA + ConditionA:ConditionB)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;查看结果&lt;/h3&gt;
+&lt;h4&gt;查看比较元素&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;主要用于&lt;code&gt;results()&lt;/code&gt;中用&lt;code&gt;name&lt;/code&gt;或&lt;code&gt;contrast&lt;/code&gt;指定比较对象&lt;/li&gt;
+&lt;li&gt;也可以用于&lt;code&gt;lfcShrink()&lt;/code&gt;的&lt;code&gt;coef&lt;/code&gt;和&lt;code&gt;contrast&lt;/code&gt;指定对象&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;resultsNames(dds)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4&gt;选择比较的对象&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;对于简单的比较，&lt;code&gt;name&lt;/code&gt;和&lt;code&gt;contrast&lt;/code&gt;都可以&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;name&lt;/code&gt;的值不是随便起的，在用&lt;code&gt;resultsNames()&lt;/code&gt;确认后使用&lt;/li&gt;
+&lt;li&gt;以下3个用法是等价的&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;res &amp;lt;- results(dds, name=&quot;condition_treated_vs_untreated&quot;)
+res &amp;lt;- results(dds, contrast=c(&quot;condition&quot;,&quot;treated&quot;,&quot;untreated&quot;))
+res &amp;lt;- results(dds, contrast=list(c(&quot;condition_treated_vs_untreated&quot;)))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;对于复杂的比较，只能用&lt;code&gt;contrast&lt;/code&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;c(&quot;condition&quot;,&quot;treated&quot;,&quot;untreated&quot;)&lt;/code&gt;&lt;br /&gt;
+是选择某一条件中两者进行对比，顺序为：
+&lt;ul&gt;
+&lt;li&gt;条件&lt;/li&gt;
+&lt;li&gt;比对项目&lt;/li&gt;
+&lt;li&gt;被比对（参考）项目&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;仅能包含一个向量，向量包含3个元素&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;list(c(&quot;..1..&quot;), c(&quot;..2..&quot;))&lt;/code&gt;&lt;br /&gt;
+用于更加复杂的对比，&lt;code&gt;list()&lt;/code&gt;中包含2个向量，&lt;br /&gt;
+如果只声明1个，那么另一个就是截距&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;整理，筛选，打印结果&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;可以直接在&lt;code&gt;results&lt;/code&gt;对象上操作&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;# 官方文档的方法
+resOrdered &amp;lt;- res[order(res$pvalue),]
+summary(res)
+sum(res$padj &amp;lt; 0.1, na.rm=TRUE)
+res05 &amp;lt;- results(dds, alpha=0.05)
+summary(res05)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;个人喜欢转换成熟悉的&lt;code&gt;data.frame&lt;/code&gt;类型更方便&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;res_df &amp;lt;- res %&amp;gt;% as.data.frame()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;不建议直接使用&lt;code&gt;results()&lt;/code&gt;去获取结果，&lt;br /&gt;
+可以首先通过LFC收缩&lt;code&gt;lfcShrink()&lt;/code&gt;调整LFC后再获取结果
+&lt;ul&gt;
+&lt;li&gt;这个时候不用&lt;code&gt;results()&lt;/code&gt;了，直接将LFC收缩完的对象变换成&lt;code&gt;data.frame&lt;/code&gt;即可&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;p值调整&lt;/h4&gt;
+&lt;h5&gt;传统调整方法&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;在&lt;code&gt;results()&lt;/code&gt;中可以设置p值调整的方法，默认为&lt;code&gt;&quot;BH&quot;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;使用&lt;code&gt;?p.adjust&lt;/code&gt;可以获取所有的调整方法：
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;&quot;holm&quot;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&quot;hochberg&quot;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&quot;hommel&quot;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&quot;bonferroni&quot;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&quot;BH&quot;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&quot;BY&quot;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&quot;fdr&quot;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&quot;none&quot;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;# BH
+results(dds)
+results(dds, pAdjustMethod = &quot;BH&quot;)
+# Bonferroni
+results(dds, pAdjustMethod = &quot;bonferroni&quot;)
+# 其他类似
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h5&gt;独立假设加权&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;一种给每个检验的结果分配权重增加统计效果的方法&lt;/li&gt;
+&lt;li&gt;增加更多的原假设拒绝以更好筛选那些显出差异明显的基因&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;# 使用R包IHW
+library(&quot;IHW&quot;)
+# 设置filterFun为ihw
+resIHW &amp;lt;- results(dds, filterFun=ihw)
+#
+summary(resIHW)
+sum(resIHW$padj &amp;lt; 0.1, na.rm=TRUE)
+metadata(resIHW)$ihwResult
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;LFC收缩&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;目的是为了解决低计数基因或者高离散度的数据在计算LFC时引起的误差&lt;/li&gt;
+&lt;li&gt;官方文档对于3种LFC估计器的介绍&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;方法:&lt;/th&gt;
+&lt;th&gt;&lt;code&gt;apeglm&lt;/code&gt;1&lt;/th&gt;
+&lt;th&gt;&lt;code&gt;ashr&lt;/code&gt;2&lt;/th&gt;
+&lt;th&gt;&lt;code&gt;normal&lt;/code&gt;3&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;适合LFC排名&lt;/td&gt;
+&lt;td&gt;✓&lt;/td&gt;
+&lt;td&gt;✓&lt;/td&gt;
+&lt;td&gt;✓&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;保存大LFC的尺寸&lt;/td&gt;
+&lt;td&gt;✓&lt;/td&gt;
+&lt;td&gt;✓&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;可以计算s值&lt;/td&gt;
+&lt;td&gt;✓&lt;/td&gt;
+&lt;td&gt;✓&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;允许使用&lt;code&gt;coef&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;✓&lt;/td&gt;
+&lt;td&gt;✓&lt;/td&gt;
+&lt;td&gt;✓&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;允许使用&lt;code&gt;lfcThreshold&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;✓&lt;/td&gt;
+&lt;td&gt;✓&lt;/td&gt;
+&lt;td&gt;✓&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;允许使用&lt;code&gt;contrast&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;✓&lt;/td&gt;
+&lt;td&gt;✓&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;可以收缩交互术语&lt;/td&gt;
+&lt;td&gt;✓&lt;/td&gt;
+&lt;td&gt;✓&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;基本用法&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;lfcShrink(dds, coef = Comparison, type = LFCShrinkAlgorithm)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;对于简单的实验设计，&lt;code&gt;apeglm&lt;/code&gt;是最推荐的方法
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;coef&lt;/code&gt;等同于&lt;code&gt;results()&lt;/code&gt;中的&lt;code&gt;name&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;lfcShrink(dds, coef = &quot;Condition_B_vs_A&quot;, type = LFCShrinkAlgorithm)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;对于复杂的实验设计，由于需要指定&lt;code&gt;contrast&lt;/code&gt;，所以只有&lt;code&gt;ashr&lt;/code&gt;才行&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;lfcShrink(
+ dds, 
+ contrast = list(c(&quot;..1..&quot;),c(&quot;..2..&quot;)), 
+ type = LFCShrinkAlgorithm
+ )
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;打印的结果的s值：检验收缩后的LFC是否与制定的阈值&lt;code&gt;lfcThreshold&lt;/code&gt;相等
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;lfcThreshold&lt;/code&gt;默认为0&lt;/li&gt;
+&lt;li&gt;可以通过设置不同的&lt;code&gt;lfcThreshold&lt;/code&gt;来检查s值的变化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;lfcShrink(
+ dds, 
+ coef = Comparison, 
+ type = LFCShrinkAlgorithm, 
+ lfcThreshold = 1
+ )
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;目前不支持IHW与LFC收缩的混用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;数据可视化&lt;/h2&gt;
+&lt;h3&gt;数据转换&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;数据转换&lt;strong&gt;不用于&lt;/strong&gt;差异性表达分析，而是用于各种可视化
+&lt;ul&gt;
+&lt;li&gt;之后需要用到数据转换的数据用&lt;code&gt;rld&lt;/code&gt;表示&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;对数化&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;ntd &amp;lt;- normTransform(dds)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4&gt;vsd，适合&amp;gt;=30的大数据&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;vsd &amp;lt;- vst(dds, blind = FALSE)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4&gt;rlog，适合&amp;lt;30样本的小数据&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;rld &amp;lt;- rlog(dds, blind = FALSE)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;检查每个样本的计数&lt;/h3&gt;
+&lt;h4&gt;分开检查每个样本的计数分布&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;dt[,1:ncol(dt)] %&amp;gt;%
+    map2(.x=., .y=names(.),
+        ~dt_GE %&amp;gt;%
+        ggplot(aes(x=.x)) +  
+        geom_histogram(stat=&apos;bin&apos;, bins=20) +
+        geom_freqpoly(binwidth = 1000) +
+        labs(x=&apos;Raw expression count&apos;,
+            y=&apos;Number of genes&apos;,
+            title=.y) +
+        theme_bw()
+    )
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4&gt;检查所有样本计数总数&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;colSum_df &amp;lt;- colSums(dt) %&amp;gt;%
+ as.data.frame() %&amp;gt;%
+ rownames_to_column()
+colnames(colSum_df) &amp;lt;- c(&apos;Sample&apos;, &apos;Counts&apos;)
+colSum_df %&amp;gt;%
+  ggplot(aes(x = Sample, y = Counts / 1e6, fill = Sample)) +
+         geom_bar(stat = &quot;identity&quot;) + theme_bw() +
+         labs(x = &quot;Sample&quot;, y = &quot;Total count in millions&quot;) +
+         theme(axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;样本关联性热图&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;rld_mat &amp;lt;- assay(rld)
+rld_cor &amp;lt;- cor(rld_mat)
+pheatmap(
+ rld_cor_GE,
+ annotation = dplyr::select(meta_dt, c(&apos;ConditionA&apos;, &apos;ConditionB&apos;))
+ )
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;PCA plot&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;rld_PCA &amp;lt;- plotPCA(
+ rld,
+ intgroup = c(&quot;ConditionA&quot;, &quot;ConditionB&quot;),
+ returnData = TRUE
+ )
+
+rld_PCA_pv &amp;lt;- round(100 * attr(rld_PCA, &quot;percentVar&quot;))
+
+rld_PCA %&amp;gt;%
+ ggplot(aes(PC1,
+      PC2,
+      color=ConditionA,
+      shape=ConditionB,
+      linetype=Time)
+     ) +
+    geom_point(size = 3) +
+    xlab(paste0(&quot;PC1: &quot;,rld_GE_PCA_pv[1],&quot;% variance&quot;)) +
+    ylab(paste0(&quot;PC2: &quot;,rld_GE_PCA_pv[2],&quot;% variance&quot;)) +
+    stat_ellipse() +
+    theme_bw()
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;变换-方差图&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;{vsn::meanSdPlot(assay(rld), ranks = FALSE)}$gg + theme_bw()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;分散估计图&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;检查模型拟合的情况，对象为&lt;code&gt;DESeq()&lt;/code&gt;处理过的&lt;code&gt;dds&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;plotDispEsts(dds)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;MA图&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;res_lfcShrink&lt;/code&gt;是&lt;code&gt;lfcShrink(dds, ...)&lt;/code&gt;之后的结果&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;plotMA(res_lfcShrink, ylim=c(-2,2))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;火山图&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;res_lfcShrink&lt;/code&gt;是&lt;code&gt;lfcShrink(dds, ...)&lt;/code&gt;之后的结果&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;res_lfcShrink_volc &amp;lt;- res_lfcShrink %&amp;gt;%
+            as.data.frame() %&amp;gt;%
+            rownames_to_column(var = &quot;gene&quot;) %&amp;gt;%
+            left_join(all_genes, by = &quot;gene&quot;) %&amp;gt;%
+            mutate(diffexpressed = case_when(
+              {padj &amp;lt; 0.05} &amp;amp; {log2FoldChange &amp;gt; 1} ~ &quot;UP&quot;,
+              {padj &amp;lt; 0.05} &amp;amp; {log2FoldChange &amp;lt; -1} ~ &quot;DOWN&quot;,
+              TRUE ~ &quot;NO&quot;
+              ))
+
+res_lfcShrink_volc$diffexpressed &amp;lt;- factor(res_8h_vs_4h_volc$diffexpressed,levels = c(&quot;DOWN&quot;, &quot;NO&quot;, &quot;UP&quot;))
+
+res_lfcShrink_volc %&amp;gt;%
+ggplot(aes(log2FoldChange, -log10(padj), color = diffexpressed))+
+  geom_hline(yintercept = -log10(0.05), linetype = &quot;dashed&quot;, color = &quot;black&quot;)+
+  geom_vline(xintercept = c(-1,1), linetype = &quot;dashed&quot;, color = &quot;black&quot;)+
+  geom_point(size = 0.8)+
+  scale_color_manual(values = c(&quot;#989ad6&quot;, &quot;#e4e4e4&quot;, &quot;#e27e9a&quot;),
+                     labels = c(&quot;DOWN&quot;, &quot;NO&quot;, &quot;UP&quot;))  +
+  theme_bw(base_size = 12)+
+  theme(legend.position = &apos;right&apos;,
+        legend.justification = c(0,1))+
+
+# 添加标签
+
+  geom_text_repel(data = filter(res_lfcShrink_volc, padj &amp;lt; 0.05 &amp;amp; abs(log2FoldChange) &amp;gt; 1),
+                  max.overlaps = getOption(&quot;ggrepel.max.overlaps&quot;, default = 20),
+                  # 这里的filter很关键，筛选你想要标记的基因
+                  aes(label = name),
+                  size = 3,
+                  color = &apos;black&apos;) +
+  xlab(&quot;Log2FC&quot;)+
+  ylab(&quot;-Log10(FDR q-value)&quot;)
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;基因表达热图&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;使用R包&lt;code&gt;ComplexHeatmap&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;这个包的功能很强大，本文仅限于简单出图&lt;/li&gt;
+&lt;li&gt;具体说明见&lt;a href=&quot;https://pengpengyang94.github.io/2020/05/complexheatmap%E4%B8%AD%E6%96%87%E7%89%88%E8%AF%B4%E6%98%8E/&quot;&gt;ComplexHeatmap中文版说明&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;# 两种安装方式
+install.packages(&quot;ComplexHeatmap&quot;)
+devtools::install_github(&quot;jokergoo/ComplexHeatmap&quot;)
+
+# 加载
+library(ComplexHeatmap)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;首先提取归一化处理，并将行名换成基因名&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;counts_dds &amp;lt;- counts(dds, normalized = T) %&amp;gt;%
+    as.data.frame() %&amp;gt;%
+    rownames_to_column(&quot;gene&quot;) %&amp;gt;%
+    left_join(gene_annotation, by = &quot;gene&quot;) %&amp;gt;%
+    select(-gene) %&amp;gt;%
+    column_to_rownames(&quot;name&quot;)
+counts_dds &amp;lt;- t(scale(t(counts_dds))) # 需要对每行进行归一化，所以得转置2次
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;绘制热图
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;SigGenes&lt;/code&gt;为筛选出来的基因名&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;Heatmap(counts_dds[SigGenes,])
+&lt;/code&gt;&lt;/pre&gt;
+</content:encoded></item><item><title>DESeq2中多因子设计</title><link>https://fuwari.vercel.app/posts/p3/p3/</link><guid isPermaLink="true">https://fuwari.vercel.app/posts/p3/p3/</guid><description>复杂实验设计时DESeq2中的实验设计写法及含义</description><pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Cover Pic by &lt;a href=&quot;https://www.pixiv.net/artworks/129206493&quot;&gt;@Rvoid_0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;内容来自&lt;a href=&quot;https://www.youtube.com/watch?v=X6p3E-QTcUc&quot;&gt;DnA lab short read sequencing workshop-Multifactor Designs in DESeq2&lt;/a&gt;以及个人的额外补充&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;交互作用&lt;/h2&gt;
+&lt;h3&gt;2X2设计&lt;/h3&gt;
+&lt;h4&gt;设计矩阵&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;这里的实验设计， &lt;code&gt;~ Genotype + Treatment + Genotype:Treatment&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;其中
+&lt;ul&gt;
+&lt;li&gt;Genotype：1，2&lt;/li&gt;
+&lt;li&gt;Treatment：Control，Treatment&lt;/li&gt;
+&lt;li&gt;原视频中首字母都是小写，为了看的更清晰我改成了首字母大写&lt;/li&gt;
+&lt;li&gt;在读取meta data之后，要factor一下，并且按照对比的顺序设定levels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;查看研究设计矩阵的代码&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;model.matrix(~ Genotype + Treatment + Genotype:Treatment, data = meta_dt)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&quot;./image_1.png&quot; alt=&quot;image_1&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;图形直观查看设计矩阵
+&lt;ul&gt;
+&lt;li&gt;输出的是图片，内容大致如下&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;vd &amp;lt;- ExploreModelMatrix::VisualizeDesign(sampleData = colData(dds), 
+                      designFormula = ~ Genotype + Treatment + Genotype:Treatment)
+vd$plot
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&amp;lt;table class=&quot;dataframe&quot;&amp;gt;
+&amp;lt;caption&amp;gt;A tibble: 2 x 3&amp;lt;/caption&amp;gt;
+&amp;lt;thead&amp;gt;
+&amp;lt;tr&amp;gt;&amp;lt;th scope=col&amp;gt;Genotype&amp;lt;/th&amp;gt;&amp;lt;th scope=col&amp;gt;Con&amp;lt;/th&amp;gt;&amp;lt;th scope=col&amp;gt;Treatment&amp;lt;/th&amp;gt;&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;&amp;lt;th scope=col&amp;gt;&amp;lt;dbl&amp;gt;&amp;lt;/th&amp;gt;&amp;lt;th scope=col&amp;gt;&amp;lt;chr&amp;gt;&amp;lt;/th&amp;gt;&amp;lt;th scope=col&amp;gt;&amp;lt;chr&amp;gt;&amp;lt;/th&amp;gt;&amp;lt;/tr&amp;gt;
+&amp;lt;/thead&amp;gt;
+&amp;lt;tbody&amp;gt;
+&amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;1&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;(Intercept) +
+Time8h&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;(Intercept) +
+TreatmentTreatment +
+Genotype2.TreatmentTreatment&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;
+&amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;2&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;(Intercept)           &amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;(Intercept) +
+TreatmentTreatment                                  &amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;
+&amp;lt;/tbody&amp;gt;
+&amp;lt;/table&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./image_2.png&quot; alt=&quot;image_2&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;解释
+&lt;ul&gt;
+&lt;li&gt;Genotype 1 Control：对照&lt;/li&gt;
+&lt;li&gt;Genotype 2 Treatment：Genotype 1接受处理；
+&lt;ul&gt;
+&lt;li&gt;与Genotype 1 Control的差值，为蓝色箭头
+&lt;ul&gt;
+&lt;li&gt;表示在经过处理后，与Genotype 1 Control的差值&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Genotype 2 Control：Genotype 2型的对照；
+&lt;ul&gt;
+&lt;li&gt;与Genotype 1 Control的差值，为红色箭头
+&lt;ul&gt;
+&lt;li&gt;表示在未经过任何处理，单纯由于genotype影响的情况&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Genotype 2 Treatment：Genotype 2型接受处理；
+&lt;ul&gt;
+&lt;li&gt;与Genotype 2 Control的差值，为深蓝色箭头
+&lt;ul&gt;
+&lt;li&gt;表示在经过处理后，与Genotype 2 Control的差值&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;如果不存在交互作用，那么它和Genotype 2 Control的差值理应相同，
+即差值为蓝色箭头&lt;/li&gt;
+&lt;li&gt;交互作用，即&lt;strong&gt;实际的差值和理论的差值的差&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;检验交互作用，就是&lt;strong&gt;实际的差值和理论的差值的差是否为0&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;即，&lt;strong&gt;深蓝色箭头（实际）-蓝色箭头（理论）是否为0&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;contrast参数中的项名&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;contrast&lt;/code&gt;中的项名不是自定义的，而是根据矩阵生成的&lt;/li&gt;
+&lt;li&gt;通过&lt;code&gt;resultsNames()&lt;/code&gt;查看所有的项名&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;resultsNames(dds)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4&gt;对交互作用的检验&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;直接对交互项检验即可
+&lt;ul&gt;
+&lt;li&gt;这里是和&lt;code&gt;~1&lt;/code&gt;比的&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;~1&lt;/code&gt;就是截距项，&lt;br /&gt;
+就是和Genotype 1 Control进行差值对比，&lt;br /&gt;
+检验上述交互项代表的实际与理论差值是否为0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;results(dds, contrast = c(&quot;Genotype2.TreatmentTreatment&quot;))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4&gt;对Genotype 2实际效果的验证&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;交互项 = 实际 - 理论，&lt;br /&gt;
+那么简单的等式移项就可以得到，实际 = 交互 + 理论&lt;/li&gt;
+&lt;li&gt;对Genotype 2实际效果，即为深蓝色箭头&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;results(dds, contrast = list(c(&quot;Treatment_Treatment_vs_Control&quot;,&quot;Genotype2.TreatmentTreatment&quot;)))
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;这里最终可以看到
+&lt;ul&gt;
+&lt;li&gt;第一行中的公式中出现了加号&lt;/li&gt;
+&lt;li&gt;即最终的取值是list中的向量包含的两个项的和&lt;/li&gt;
+&lt;li&gt;list中最多包含两个向量
+&lt;ul&gt;
+&lt;li&gt;第一个向量是比较项&lt;/li&gt;
+&lt;li&gt;第二个向量是被比较项&lt;/li&gt;
+&lt;li&gt;当没有输入第二个向量的时候，即为与&lt;code&gt;~1&lt;/code&gt;截距项比较&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;./image_3.png&quot; alt=&quot;image_3&quot; /&gt;&lt;/p&gt;
+&lt;h3&gt;Con，A，B，A+B设计&lt;/h3&gt;
+&lt;h4&gt;设计矩阵&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;meta data格式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;./image_4.png&quot; alt=&quot;image_4&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;实验设计， &lt;code&gt;~ Treatment1 + Treatment2 + Treatment1:Treatment2&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;更复杂的实验设计&lt;/h2&gt;
+&lt;h3&gt;2组X多时间节点&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2种细胞（Control，Mutant） 在4个时间点（0，6，12，24h）的基因表达&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;./image_5.png&quot; alt=&quot;image_5&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;分析思路
+&lt;ul&gt;
+&lt;li&gt;时间点两两比较
+&lt;ul&gt;
+&lt;li&gt;6h vs 0h&lt;/li&gt;
+&lt;li&gt;12h vs 0h&lt;/li&gt;
+&lt;li&gt;24h vs 0h&lt;/li&gt;
+&lt;li&gt;12h vs 6h&lt;/li&gt;
+&lt;li&gt;24h vs 12h&lt;/li&gt;
+&lt;li&gt;24h vs 12h&lt;/li&gt;
+&lt;li&gt;问题
+&lt;ul&gt;
+&lt;li&gt;没有充分利用时间序列的信息，得到的结果不全面&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;充分利用时间序列的本质，跨越全部时间段进行多组比较
+&lt;ul&gt;
+&lt;li&gt;在本例中，2种&lt;strong&gt;对比设计&lt;/strong&gt;（用以区别实验设计）
+&lt;ul&gt;
+&lt;li&gt;简化版模型：不考虑细胞种类的影响&lt;/li&gt;
+&lt;li&gt;全面版模型：考虑细胞种类的影响&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;对比设计&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;首先得判断是否有必要使用全面版模型，因此需要做一个简单对比&lt;/li&gt;
+&lt;li&gt;在&lt;code&gt;DESeqDataSetFromMatrix()&lt;/code&gt;中还是要填写完整的实验设计
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;~ Batch + Genotype + Time + Genotype:Time&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;dds &amp;lt;- DESeqDataSetFromMatrix(
+ countData = countMatrix,
+ colData = metaData,
+ design = ~ Batch + Genotype + Time + Genotype:Time)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;由于存在多levels的比较，&lt;br /&gt;
+正如t检验用于双样本，ANOVA适用于多样本一样，&lt;br /&gt;
+Wald检验用于双样本，而LRT用于多样本
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;test = &quot;wald&lt;/code&gt;是默认的，改用LRT需要声明一下&lt;/li&gt;
+&lt;li&gt;要注意：&lt;code&gt;reduced&lt;/code&gt;中填写&lt;strong&gt;简化后&lt;/strong&gt;保留的变量，而并非要剔除的变量s&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;简化版模型&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;dds_full &amp;lt;- DESeq(dds, test = &quot;LRT&quot;, reduced = ~ Batch + Time)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&quot;./image_6.png&quot; alt=&quot;image_6&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;结果中的&lt;code&gt;baseMean&lt;/code&gt;，&lt;code&gt;log2FoldChange&lt;/code&gt;等结果均无实际意义&lt;/li&gt;
+&lt;li&gt;这里主要关注的是统计量&lt;code&gt;stat&lt;/code&gt;以及p值&lt;code&gt;pval&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;原视频&lt;/h2&gt;
+&lt;p&gt;&amp;lt;iframe width=&quot;100%&quot; height=&quot;468&quot; src=&quot;https://www.youtube.com/embed/X6p3E-QTcUc&quot; title=&quot;Multifactor Designs in DESeq2&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+</content:encoded></item><item><title>Blog创建完成</title><link>https://fuwari.vercel.app/posts/p1/p1/</link><guid isPermaLink="true">https://fuwari.vercel.app/posts/p1/p1/</guid><description>随便写点什么吧</description><pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;Cover Pic by &lt;a href=&quot;https://www.pixiv.net/artworks/121353048&quot;&gt;@晕欧欧&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;开启我的blog&lt;/h2&gt;
+&lt;p&gt;随便写写各种&lt;br /&gt;
+以摸鱼为主&lt;br /&gt;
+有什么想到的再追加&lt;/p&gt;
+</content:encoded></item></channel></rss>
